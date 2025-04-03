@@ -172,3 +172,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+save.py
+test.py
+test2.py
+save2.py
